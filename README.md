@@ -1,7 +1,8 @@
 # Git Basics Lab
 
 ## Learning Goals
-
+cd git-basics-lab-nyc01-seng-ft-042020
+cd my-repository
 - Understand how to complete labs on Learn
 - Apply what you've learned about Git version control
 - Initialize a new Git repository
